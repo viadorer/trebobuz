@@ -1,0 +1,11 @@
+# Konfigurační soubory
+js/config.js
+
+# Systémové soubory
+.DS_Store
+Thumbs.db
+
+# IDE soubory
+.vscode/
+.idea/
+*.sublime-*
